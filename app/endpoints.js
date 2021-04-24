@@ -23,7 +23,7 @@ exports.types = {
             '-codec:v libx264',
             '-profile:v high',
             '-r 15',
-            '-crf 23',
+            '-crf 18',
             '-preset ultrafast',
             '-b:v 500k',
             '-maxrate 500k',
